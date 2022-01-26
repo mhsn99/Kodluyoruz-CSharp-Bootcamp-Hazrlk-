@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2c4fe82-2093-4f10-914b-e4010616480e": {
+      "ProjectGuid": "b2c4fe82-2093-4f10-914b-e4010616480e",
+      "DisplayName": "ConsoleApp1-Hello World",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\bin\Debug\ConsoleApp1-Hello World.exe.config
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\bin\Debug\ConsoleApp1-Hello World.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\bin\Debug\ConsoleApp1-Hello World.pdb
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\obj\Debug\ConsoleApp1-Hello World.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\obj\Debug\ConsoleApp1-Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\obj\Debug\ConsoleApp1-Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\obj\Debug\ConsoleApp1-Hello World.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp1-Hello World\obj\Debug\ConsoleApp1-Hello World.pdb
