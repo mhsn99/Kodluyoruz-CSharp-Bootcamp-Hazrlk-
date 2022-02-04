@@ -1,0 +1,8 @@
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\obj\Debug\ConsoleApp2-DataTypes.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\obj\Debug\ConsoleApp2-DataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\obj\Debug\ConsoleApp2-DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\bin\Debug\ConsoleApp2-DataTypes.exe.config
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\bin\Debug\ConsoleApp2-DataTypes.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\bin\Debug\ConsoleApp2-DataTypes.pdb
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\obj\Debug\ConsoleApp2-DataTypes.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\ConsoleApp2-DataTypes\obj\Debug\ConsoleApp2-DataTypes.pdb
