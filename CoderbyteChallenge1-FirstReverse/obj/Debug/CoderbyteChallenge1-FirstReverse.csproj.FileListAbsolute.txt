@@ -1,0 +1,8 @@
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\bin\Debug\CoderbyteChallenge1-FirstReverse.exe.config
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\bin\Debug\CoderbyteChallenge1-FirstReverse.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\bin\Debug\CoderbyteChallenge1-FirstReverse.pdb
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\obj\Debug\CoderbyteChallenge1-FirstReverse.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\obj\Debug\CoderbyteChallenge1-FirstReverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\obj\Debug\CoderbyteChallenge1-FirstReverse.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\obj\Debug\CoderbyteChallenge1-FirstReverse.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge1-FirstReverse\obj\Debug\CoderbyteChallenge1-FirstReverse.pdb
