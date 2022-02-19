@@ -1,0 +1,8 @@
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\bin\Debug\CoderbyteChallenge2-CountingMinutes.exe.config
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\bin\Debug\CoderbyteChallenge2-CountingMinutes.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\bin\Debug\CoderbyteChallenge2-CountingMinutes.pdb
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\obj\Debug\CoderbyteChallenge2-CountingMinutes.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\obj\Debug\CoderbyteChallenge2-CountingMinutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\obj\Debug\CoderbyteChallenge2-CountingMinutes.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\obj\Debug\CoderbyteChallenge2-CountingMinutes.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\CoderbyteChallenge2-CountingMinutes\obj\Debug\CoderbyteChallenge2-CountingMinutes.pdb
