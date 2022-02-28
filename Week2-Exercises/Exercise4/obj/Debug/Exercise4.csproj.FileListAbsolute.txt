@@ -1,0 +1,8 @@
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\obj\Debug\Exercise4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\mahsu\Desktop\All\Kodluyoruz-CSharp-Bootcamp-Hazrlk\Week2-Exercises\Exercise4\obj\Debug\Exercise4.pdb
